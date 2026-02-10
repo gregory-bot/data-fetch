@@ -292,4 +292,4 @@ cur.close()
 conn.close()
 ```
 
-*gregory.tech: The best way to learn is by doing. Don't be afraid to experiment and make mistakes!*
+* ### gregory.tech: The best way to learn is by doing. Don't be afraid to experiment and make mistakes!*
